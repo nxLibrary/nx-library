@@ -19,3 +19,7 @@ to use common functionlity in one package.
   &lt;script src=&quot;Scripts/nx-library.min.js&quot;&gt;&lt;/script&gt;<br/> 
 <p>Add Css</p>
   &lt;link href=&quot;Content/toastr.min.css&quot; rel=&quot;stylesheet&quot; /&gt;<br/>
+  
+# Add Dependency for nx-library
+  <h4>angular.module('myApp', ['nx-library']);</h4>
+  
