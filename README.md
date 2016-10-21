@@ -22,4 +22,20 @@ to use common functionlity in one package.
   
 # Add Dependency for nx-library
   <h4>angular.module('myApp', ['nx-library']);</h4>
+  <h4>angular.module('myApp').controller('myController',['nx',function(nx){}]);</h4>
+# How to use
+  <h4>for show toastr message</h4>
+  nx.message.success('message'); 
+  nx.message.error('message'); 
+  nx.message.info('message'); 
+  nx.message.warning('message'); 
+  
+  <h4>for cache storage</h4>
+  nx.cache.set(key); 
+  nx.cache.get(key, value); 
+  nx.cache.exists(key); 
+  nx.cache.remove(key); 
+  nx.cache.clear(); 
+  
+  
   
