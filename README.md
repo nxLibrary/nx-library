@@ -31,8 +31,8 @@ to use common functionlity in one package.
   nx.message.warning('message'); 
   
   <h4>for cache storage</h4>
-  nx.cache.set(key); <br/>
-  nx.cache.get(key, value); <br/>
+  nx.cache.get(key); <br/>
+  nx.cache.set(key, value); <br/>
   nx.cache.exists(key); <br/>
   nx.cache.remove(key); <br/>
   nx.cache.clear(); 
