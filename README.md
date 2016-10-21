@@ -36,6 +36,12 @@ to use common functionlity in one package.
   nx.cache.exists(key); <br/>
   nx.cache.remove(key); <br/>
   nx.cache.clear(); 
-  
-  
+# Authors
+Vijay Soni 
+<ul><li>vijay.soni@live.com</li></ul>
+# Copyright
+Copyright © 2016-2018
+# License
+nx-library is under MIT license - http://www.opensource.org/licenses/mit-license.php
+
   
