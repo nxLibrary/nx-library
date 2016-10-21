@@ -13,9 +13,9 @@ to use common functionlity in one package.
   
 # Getting Started
 <p>Add Js</p>
-  <p>&lt;script src=&quot;Scripts/jquery-3.1.1.js&quot;&gt;&lt;/script&gt;</p>    
-  <p>&lt;script src=&quot;Scripts/toastr.min.js&quot;&gt;&lt;/script&gt;</p> 
-  <p>&lt;script src=&quot;Scripts/angular.min.js&quot;&gt;&lt;/script&gt;</p> 
-  <p>&lt;script src=&quot;Scripts/nx-library.min.js&quot;&gt;&lt;/script&gt;</p> 
+  &lt;script src=&quot;Scripts/jquery-3.1.1.js&quot;&gt;&lt;/script&gt;<br/>    
+  &lt;script src=&quot;Scripts/toastr.min.js&quot;&gt;&lt;/script&gt;<br/> 
+  &lt;script src=&quot;Scripts/angular.min.js&quot;&gt;&lt;/script&gt;<br/> 
+  &lt;script src=&quot;Scripts/nx-library.min.js&quot;&gt;&lt;/script&gt;<br/> 
 <p>Add Css</p>
-  <p>&lt;link href=&quot;Content/toastr.min.css&quot; rel=&quot;stylesheet&quot; /&gt;</p>
+  &lt;link href=&quot;Content/toastr.min.css&quot; rel=&quot;stylesheet&quot; /&gt;<br/>
