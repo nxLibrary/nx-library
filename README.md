@@ -25,16 +25,16 @@ to use common functionlity in one package.
   <h4>angular.module('myApp').controller('myController',['nx',function(nx){}]);</h4>
 # How to use
   <h4>for show toastr message</h4>
-  nx.message.success('message'); 
-  nx.message.error('message'); 
-  nx.message.info('message'); 
+  nx.message.success('message'); <br/>
+  nx.message.error('message'); <br/>
+  nx.message.info('message'); <br/>
   nx.message.warning('message'); 
   
   <h4>for cache storage</h4>
-  nx.cache.set(key); 
-  nx.cache.get(key, value); 
-  nx.cache.exists(key); 
-  nx.cache.remove(key); 
+  nx.cache.set(key); <br/>
+  nx.cache.get(key, value); <br/>
+  nx.cache.exists(key); <br/>
+  nx.cache.remove(key); <br/>
   nx.cache.clear(); 
   
   
